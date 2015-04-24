@@ -2,6 +2,7 @@ SparkFun QuadStepper Motor Driver
 =================================
 
 ![SparkFun Quadstepper Motor Driver](https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-01.jpg)
+
 [*SparkFun Quadstepper Motor Driver (ROB-10507)*](https://www.sparkfun.com/products/10507)
 
 The Quadstepper motor driver board allows you to control up to 4 bipolar stepper motors simultaneously using logic level IO pins. 
