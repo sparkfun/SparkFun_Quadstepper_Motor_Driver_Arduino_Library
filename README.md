@@ -1,5 +1,5 @@
-SparkFun QuadStepper Motor Driver
-=================================
+SparkFun QuadStepper Motor Driver Arduino Libary
+================================================
 
 ![SparkFun Quadstepper Motor Driver](https://cdn.sparkfun.com//assets/parts/5/0/5/6/10507-01.jpg)
 
@@ -13,13 +13,33 @@ Be sure to close all of the ‘Bus Enable’ jumpers on the back of the board in
 
 Repository Contents
 -------------------
-* **/Hardware** - All Eagle design files (.brd, .sch, .STL)
-* **/Libraries** - All Arduino libraries and board examples
 
+* **/examples** - Example sketches for the library (.ino). Run these from the Arduino IDE. 
+* **/src** - Source files for the library (.cpp, .h).
+* **keywords.txt** - Keywords from this library that will be highlighted in the Arduino IDE. 
+* **library.properties** - General library properties for the Arduino package manager. 
+
+Documentation
+--------------
+
+* **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
+* **[Quadstepper Github](https://github.com/sparkfun/Quadstepper_Motor_Driver)** - Main repository (including hardware files) for the SparkFun Quadstepper Motor Driver.
+
+Products that use this Library 
+---------------------------------
+
+* [ROB-10507](https://www.sparkfun.com/products/10507)- SparkFun Quadstepper
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+This product is _**open source**_! 
+
+The **code** is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+Please use, reuse, and modify these files as you see fit. Please maintain attribution to SparkFun Electronics and release anything derivative under the same license.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
+
